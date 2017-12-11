@@ -1,0 +1,11 @@
+{
+  "name": "rest-api-starter",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "",
+    "express": "",
+    "jsonwebtoken": "^7.4.0",
+    "mongoose": "",
+    "morgan": "^1.8.1"
+  }
+}
