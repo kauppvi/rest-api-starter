@@ -8,4 +8,4 @@ router.get('/', function(req, res) {
     res.json({ message: 'OK!' });   
 });
 
-module.exports = router
+module.exports = router;
